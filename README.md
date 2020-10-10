@@ -1,6 +1,6 @@
 # Natours
 
-Natours is a responsive website for a fictional company that offers tours in the nature. It's one of the projects of The Advanced CSS and SASS Course on Udemy taught by Jonas Schmedtmann.
+Natours is a responsive website for a fictional company that offers tours in the nature. It's one of the projects of [The Advanced CSS and SASS Course on Udemy](https://www.udemy.com/course/advanced-css-and-sass/) taught by Jonas Schmedtmann.
 
 ## 💻 Build with
 
